@@ -1,0 +1,30 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Modelo servicio de renta",
+    "owner": "Keven Bermudez",
+    "description": "Modelo",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "omarg@digitalware.com.co"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Omar Calderon",
+    "threatTop": 0
+  }
+}
